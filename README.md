@@ -20,12 +20,14 @@ AWS account set up with AWS CLI configured with an IAM user that has S3 permissi
 **Setup and Installation**
 
 **1. Clone the Repository**
+
 Clone the repository to your local machine:
 
 git clone https://github.com/FLATOPA/weather-dashboard.git
 cd weather-dashboard
 
 **2. Set Up a Virtual Environment**
+
 Create and activate a virtual environment:
 
 python3 -m venv venv  
@@ -41,7 +43,7 @@ pip install -r requirements.txt
 
 Create a .env file in the root directory with the following content:
 
-OPENWEATHER_API_KEY=<My_generated_weatherAPI_key>
+OPENWEATHER_API_KEY=<My_generated_weatherAPI_key>  
 AWS_BUCKET_NAME=<my_aws_bucket_name>
 
 
