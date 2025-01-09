@@ -32,11 +32,13 @@ python3 -m venv venv
 source venv/bin/activate
 
 **3. Install Dependencies**
+
 Install the required libraries:
 
 pip install -r requirements.txt
 
 **4. Add Your API Key and Configuration**
+
 Create a .env file in the root directory with the following content:
 
 OPENWEATHER_API_KEY=<My_generated_weatherAPI_key>
