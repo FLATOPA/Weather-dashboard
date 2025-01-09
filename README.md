@@ -1,4 +1,4 @@
-# weather-dashboard
+# Weather-dashboard to AWS S3 Subject.   #DevOpsAllStarChallenge
 
 This project is part of my 30-Day DevOps Challenge #DevOpsAllStarChallenge. It focuses on building a Python application that retrieves real-time weather data from the OpenWeather API and saves it in an AWS S3 bucket. This project helped me learn how to work with APIs, manage environment variables, and use AWS for cloud storage.
 
